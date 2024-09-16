@@ -46,7 +46,7 @@ sudo apt-get install python3-tk  # For Linux systems
 ## Installation
 ### 1.Clone this repository:
 ```bash
-git clone https://github.com/Tonyy107/InventorySystem
+git clone https://github.com/Tonyy107/InventorySystem.git
 cd InventorySystem
 ```
 ### 2.Install the required libraries:
